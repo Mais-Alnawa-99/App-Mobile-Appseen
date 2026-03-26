@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DroidArabicKufi-bold.ttf",
+      "sha1": "590865add23d8c0b0da1ed52bb453277d824e195"
+    },
+    {
+      "path": "assets/fonts/DroidArabicKufi-regular.ttf",
+      "sha1": "f2a6e5609843c15ed5e94b1c12cf95ad23e0aa36"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Arabic-Bold.ttf",
+      "sha1": "8adcd1b3ca1fdb64c446f98d715d34f0f03420c6"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Arabic-Regular.ttf",
+      "sha1": "1bd862e62fbbbf1093c8838648157e0595185c04"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Arabic.ttf",
+      "sha1": "fd9abdf600db7d395dd27077e1ea57bf5a167917"
+    }
+  ]
+}

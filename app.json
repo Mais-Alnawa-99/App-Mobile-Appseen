@@ -1,0 +1,10 @@
+{
+ "name": "marketplaceseenapp",
+  "displayName": "marketplaceseenapp",
+  "mapKey": "AIzaSyBof5e9_Hw7zILtYGeoTW9H8uqVPfCGmRo",
+  "production": false,
+  "staging": true,
+  "local": false,
+  "buildVersion": 15,
+  "version": "1.0.33"
+}

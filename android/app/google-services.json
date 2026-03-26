@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "897679791145",
+    "project_id": "seenmobileapp",
+    "storage_bucket": "seenmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897679791145:android:f1708c84c38787e06bb838",
+        "android_client_info": {
+          "package_name": "com.marketplaceseenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiuRVQ4QO7XjZs4WR-eF8MmYE0byAph0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897679791145:android:c1baf6cc2c90ddf36bb838",
+        "android_client_info": {
+          "package_name": "com.marketplaceseenapp.shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiuRVQ4QO7XjZs4WR-eF8MmYE0byAph0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
