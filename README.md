@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -98,6 +99,10 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# App-Mobile-Appseen
+This project is an e-commerce application. I worked on adding new pages, connecting the frontend with the backend, and understanding the Figma design and integrating it into the project.
+>>>>>>> c98bd5a039284fb8343a0f4ae53e5948605f3ec2
 =======
 # App-Mobile-Appseen
 This project is an e-commerce application. I worked on adding new pages, connecting the frontend with the backend, and understanding the Figma design and integrating it into the project.
